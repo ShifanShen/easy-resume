@@ -1,3 +1,5 @@
+**[English Documentation](README_EN.md)** | **[中文文档](README.md)**
+
 # Easy Resume - Simple Chinese Resume Template
 
 > A clean and elegant LaTeX resume template with Chinese support and one-inch photo placeholder, perfect for job applications
@@ -10,7 +12,7 @@
 
 ![alt text](image-1.png)
 
-**[English Documentation](README_EN.md)** | **[中文文档](README.md)**
+
 
 ## Features
 

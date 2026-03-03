@@ -1,3 +1,5 @@
+**[中文文档](README.md)** | **[English Documentation](README_EN.md)**
+
 # Easy Resume - 简约中文简历模板
 
 > 一个简洁美观的 LaTeX 中文简历模板，支持一寸照片，适合求职使用
@@ -10,7 +12,7 @@
 
 ![alt text](image.png)
 
-**[中文文档](README.md)** | **[English Documentation](README_EN.md)**
+
 
 ## 特点
 
