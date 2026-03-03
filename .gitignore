@@ -1,0 +1,24 @@
+# LaTeX 编译产物
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# PDF 文件
+*.pdf
+
+# 图片文件（示例照片，用户自行添加）
+photo.jpg
+photo.png
+photo.jpeg
+
+# 临时文件
+*.tmp
+*~
