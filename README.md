@@ -8,9 +8,7 @@
 
 ## 预览
 
-| 简历预览 |
-|---------|
-| *[截图位置]* |
+![alt text](image.png)
 
 **[中文文档](README.md)** | **[English Documentation](README_EN.md)**
 

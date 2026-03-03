@@ -18,6 +18,7 @@
 photo.jpg
 photo.png
 photo.jpeg
+*.png
 
 # 临时文件
 *.tmp

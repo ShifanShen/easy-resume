@@ -8,9 +8,7 @@
 
 ## Preview
 
-| Resume Preview |
-|---------------|
-| *[Screenshot placeholder]* |
+![alt text](image-1.png)
 
 **[English Documentation](README_EN.md)** | **[中文文档](README.md)**
 
